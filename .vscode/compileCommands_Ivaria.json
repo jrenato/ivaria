@@ -1,0 +1,122 @@
+[
+	{
+		"file": "D:\\Projects\\Unreal\\Ivaria\\Source\\Ivaria\\Ivaria.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Projects\\Unreal\\Ivaria\\.vscode\\compileCommands_Ivaria\\Ivaria.1.rsp"
+		],
+		"directory": "C:\\Epic\\Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Projects\\Unreal\\Ivaria\\Source\\Ivaria\\Ivaria.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Projects\\Unreal\\Ivaria\\.vscode\\compileCommands_Ivaria\\Ivaria.1.rsp"
+		],
+		"directory": "C:\\Epic\\Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Projects\\Unreal\\Ivaria\\Source\\Ivaria\\Ivaria.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Projects\\Unreal\\Ivaria\\.vscode\\compileCommands_Ivaria\\Ivaria.1.rsp"
+		],
+		"directory": "C:\\Epic\\Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Projects\\Unreal\\Ivaria\\Source\\Ivaria\\IvariaCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Projects\\Unreal\\Ivaria\\.vscode\\compileCommands_Ivaria\\Ivaria.1.rsp"
+		],
+		"directory": "C:\\Epic\\Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Projects\\Unreal\\Ivaria\\Source\\Ivaria\\IvariaCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Projects\\Unreal\\Ivaria\\.vscode\\compileCommands_Ivaria\\Ivaria.1.rsp"
+		],
+		"directory": "C:\\Epic\\Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Projects\\Unreal\\Ivaria\\Source\\Ivaria\\IvariaGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Projects\\Unreal\\Ivaria\\.vscode\\compileCommands_Ivaria\\Ivaria.1.rsp"
+		],
+		"directory": "C:\\Epic\\Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Projects\\Unreal\\Ivaria\\Source\\Ivaria\\IvariaGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Projects\\Unreal\\Ivaria\\.vscode\\compileCommands_Ivaria\\Ivaria.1.rsp"
+		],
+		"directory": "C:\\Epic\\Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Projects\\Unreal\\Ivaria\\Source\\Ivaria\\IvariaPlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Projects\\Unreal\\Ivaria\\.vscode\\compileCommands_Ivaria\\Ivaria.1.rsp"
+		],
+		"directory": "C:\\Epic\\Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Projects\\Unreal\\Ivaria\\Source\\Ivaria\\IvariaPlayerController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Projects\\Unreal\\Ivaria\\.vscode\\compileCommands_Ivaria\\Ivaria.1.rsp"
+		],
+		"directory": "C:\\Epic\\Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Projects\\Unreal\\Ivaria\\Source\\Ivaria\\IvariaProjectile.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Projects\\Unreal\\Ivaria\\.vscode\\compileCommands_Ivaria\\Ivaria.1.rsp"
+		],
+		"directory": "C:\\Epic\\Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Projects\\Unreal\\Ivaria\\Source\\Ivaria\\IvariaProjectile.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Projects\\Unreal\\Ivaria\\.vscode\\compileCommands_Ivaria\\Ivaria.1.rsp"
+		],
+		"directory": "C:\\Epic\\Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Projects\\Unreal\\Ivaria\\Source\\Ivaria\\TP_PickUpComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Projects\\Unreal\\Ivaria\\.vscode\\compileCommands_Ivaria\\Ivaria.1.rsp"
+		],
+		"directory": "C:\\Epic\\Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Projects\\Unreal\\Ivaria\\Source\\Ivaria\\TP_PickUpComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Projects\\Unreal\\Ivaria\\.vscode\\compileCommands_Ivaria\\Ivaria.1.rsp"
+		],
+		"directory": "C:\\Epic\\Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Projects\\Unreal\\Ivaria\\Source\\Ivaria\\TP_WeaponComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Projects\\Unreal\\Ivaria\\.vscode\\compileCommands_Ivaria\\Ivaria.1.rsp"
+		],
+		"directory": "C:\\Epic\\Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Projects\\Unreal\\Ivaria\\Source\\Ivaria\\TP_WeaponComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Projects\\Unreal\\Ivaria\\.vscode\\compileCommands_Ivaria\\Ivaria.1.rsp"
+		],
+		"directory": "C:\\Epic\\Games\\UE_5.3\\Engine\\Source"
+	}
+]
